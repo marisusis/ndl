@@ -1,0 +1,27 @@
+{
+  "name": "ndl",
+  "version": "0.0.0",
+  "description": "A utility to download media",
+  "main": "lib/ndl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spacegeek224/ndl.git"
+  },
+  "keywords": [
+    "ndl",
+    "downloader",
+    "dl",
+    "download",
+    "youtube",
+    "media"
+  ],
+  "author": "Maris Usis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spacegeek224/ndl/issues"
+  },
+  "homepage": "https://github.com/spacegeek224/ndl#readme"
+}
