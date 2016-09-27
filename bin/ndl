@@ -1,4 +1,5 @@
-//TODO implement this as bin
+#!/usr/bin/env node
+ //TODO implement this as bin
 require('require-json');
 
 var winston = require('winston');

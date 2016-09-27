@@ -36,6 +36,6 @@
     "winston": "^2.2.0"
   },
   "bin": {
-    "ndl": "./lib/ndl.js"
+    "ndl": "bin/ndl"
   }
 }
