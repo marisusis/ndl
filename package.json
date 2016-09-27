@@ -1,6 +1,6 @@
 {
   "name": "ndl",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A utility to download media",
   "main": "lib/ndl.js",
   "scripts": {
@@ -38,5 +38,4 @@
   "bin": {
     "ndl": "./lib/ndl.js"
   }
-
 }
