@@ -37,5 +37,9 @@
   },
   "bin": {
     "ndl": "bin/ndl"
-  }
+  },
+  "files": [
+    "bin",
+    "lib"
+  ]
 }
